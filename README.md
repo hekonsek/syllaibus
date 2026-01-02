@@ -2,7 +2,7 @@
 
 **Syllaibus** is a data format for syllabuses for AI. It is useful to describe scope of knowledge for AI without providing the knowledge itself.
 
-For example if my GitHub repository contains knowledge related to processing text file in Linux, I could provide Syllaibus file (usually named `.syllaibus.yml`) similar to:
+For example if my GitHub repository contains knowledge related to processing text files in Linux, I could provide Syllaibus file (usually named `.syllaibus.yml`) similar to:
 
 ```yml
 syllabus:
