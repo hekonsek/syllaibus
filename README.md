@@ -25,7 +25,7 @@ syllabus:
 
 ## Syllaibus structure
 
-Syllaibuses are usually stored in root of knowledge repository and named `.syllaibus.yml`. Syllaibus file contents is quite simple:
+Syllaibuses are usually stored in root of knowledge repository and named `.syllaibus.yml`. Syllaibus file content follows the format below:
 
 ```yml
 syllabus:
