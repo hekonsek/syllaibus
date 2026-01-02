@@ -41,6 +41,8 @@ You can rely on Sylaibus to provide AI the scope of knowledge. Then you can rely
 
 > Have I covered everything from syllabus?
 
+> Test my knowledge about random topic covered by syllabus by asking me question. 
+
 Or about Syllaibus itself:
 
 > Is there anything missing in syllabus?
