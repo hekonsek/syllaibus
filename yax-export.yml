@@ -1,0 +1,7 @@
+build:
+  agentsmd:
+    from:
+      - file:README.md
+    output: _agents.md
+    metadata:
+      name: "Syllaibus: Syllabus for AI"
