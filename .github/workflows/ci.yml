@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Install spex
         run: npm install -g https://github.com/hekonsek/spex/archive/refs/tags/v0.22.0.tar.gz
